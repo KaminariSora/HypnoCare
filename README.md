@@ -74,10 +74,8 @@ _A Smart Mobile App for Personal Health Management_
 ---
 
 ## 🚀 Key Highlights
-- Mobile-first Design
-- User-friendly Interface
-- Health-focused Features
-- AI-powered Chatbot
+- ใช้งานง่าย
+- อ้อางอิงข้อมูลจากเว็บไซต์ทางการแพทย์
 
 ---
 
@@ -89,7 +87,6 @@ _A Smart Mobile App for Personal Health Management_
 ---
 
 ## 📌 Use Cases
-- นักศึกษา / คนทำงาน
 - ผู้ที่ต้องการดูแลสุขภาพ
 - ผู้เริ่มต้นควบคุมอาหาร
 
@@ -102,6 +99,6 @@ This project is for **educational and development purposes**.
 
 <div align="center">
 
-⭐ หากคุณชอบโปรเจกต์นี้ อย่าลืมกด Star ⭐
+⭐ หากคุณชอบโปรเจกต์นี้ ไม่ต้องทำอะไร ดูเฉยๆพอ55555555 ⭐
 
 </div>
